@@ -1,6 +1,11 @@
 ## Adopt Me!
 
-Aplikacja, która została stworzona podczas kursu o tematyce React.JS na platformie frontendmasters.com. Głównym celem aplikacji jest możliwość wyszukania pupila do adopcji. 
+#### Założenia projektu:
+* utrwalenie wiadomości z zakresu React.JS,
+* poznanie nowych technologii.
+
+Aplikacja napisana w React.JS. Głównym celem aplikacji jest możliwość wyszukania pupila do adopcji. Projekt został stworzony w trakcie kursu o tematyce React.JS na platformie 
+*frontendmasters.com*.
 
 #### Aplikacja składa się z dwóch widoków:
 
@@ -11,7 +16,7 @@ Aplikacja, która została stworzona podczas kursu o tematyce React.JS na platfo
 
 * Javascript,
 * React.JS (react-dom, reach-router),
-  * komponenty klasowe, funkcyjne, hooki, custom hooki, modal, 
+  * function and class components, hooks, custom hooks, modal, error boundary,
 * HTML5,
 * CSS3.
 
@@ -19,3 +24,4 @@ Aplikacja, która została stworzona podczas kursu o tematyce React.JS na platfo
 
 1. npm install
 2. npm run dev
+vvv
