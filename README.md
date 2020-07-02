@@ -1,8 +1,8 @@
-## Adopt Me!
-
 #### Założenia projektu:
 * utrwalenie wiadomości z zakresu React.JS,
 * poznanie nowych technologii.
+
+## Adopt Me!
 
 Aplikacja napisana w React.JS. Głównym celem aplikacji jest możliwość wyszukania pupila do adopcji. Projekt został stworzony w trakcie kursu o tematyce React.JS na platformie 
 *frontendmasters.com*.
