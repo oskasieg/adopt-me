@@ -5,7 +5,7 @@ Aplikacja, która została stworzona podczas kursu o tematyce React.JS na platfo
 #### Aplikacja składa się z dwóch widoków:
 
 * wyszukiwarka zwierząt do adopcji oraz wylistowanie znalezionych wyników obok,
-* informacje o wybranych pupilu wraz z odnośnikiem do oferty adopcji. 
+* informacje o wybranym pupilu wraz z odnośnikiem do oferty adopcji. 
 
 #### Użyte technologie:
 
