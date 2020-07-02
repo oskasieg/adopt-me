@@ -1,7 +1,3 @@
-#### Założenia projektu:
-* utrwalenie wiadomości z zakresu React.JS,
-* poznanie nowych technologii.
-
 ## Adopt Me!
 
 Aplikacja napisana w React.JS. Głównym celem aplikacji jest możliwość wyszukania pupila do adopcji. Projekt został stworzony w trakcie kursu o tematyce React.JS na platformie 
@@ -24,4 +20,7 @@ Aplikacja napisana w React.JS. Głównym celem aplikacji jest możliwość wyszu
 
 1. npm install
 2. npm run dev
-vvv
+
+#### Założenia projektu:
+* utrwalenie wiadomości z zakresu React.JS,
+* poznanie nowych technologii.
